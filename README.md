@@ -17,7 +17,7 @@ is currently a manual process. Using the given sample dataset, create a text sum
 that solves the given problem. Your solution will later be deployed across the
 organization. 
 
-You can use the following Guiding Template [Link].
+nk].
 
 Dataset
 
