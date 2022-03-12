@@ -17,8 +17,6 @@ is currently a manual process. Using the given sample dataset, create a text sum
 that solves the given problem. Your solution will later be deployed across the
 organization. 
 
-nk].
-
 Dataset
 
 The provided dataset contains a sample of 5 records. It contains the heading of a
